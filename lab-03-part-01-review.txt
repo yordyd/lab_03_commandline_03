@@ -113,7 +113,8 @@ Write the command(s) that you used to determine this - as well as its output - b
 Write the command(s) (including going home) that you used to do this below:
 ----------
 
-
+~ <enter>
+cd mtec1003-lab-03/books/science-fiction/
 
 ==========
 11.  Write the files that are in the science fiction directory below.
@@ -121,13 +122,18 @@ Write the command(s) (including going home) that you used to do this below:
 Write the command(s) that you used to do this - as well as its output - below:
 ----------
 
-
+ls 
+humvn		humvnity	pg84.txt	pg86.txt	world
 
 ==========
 12.  Again, go back to your home directory.  Now... go to the science-fiction directory using an absolute path!  Verify that you're in the right directory using pwd.
 
 Write the command(s) that you used to do this below:
 ----------
+
+~<enter>
+cd mtec1003-lab-03/books/science-fiction/
+pwd
 
 ==========
 OPTIONAL

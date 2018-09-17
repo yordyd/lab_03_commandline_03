@@ -16,7 +16,7 @@ This lab will review downloading and uncompressing files, and it will get us set
 Write the command that you used to do this below:
 ----------
 
-
+~
 
 ==========
 2. Prove that you're in your home directory.
@@ -24,7 +24,7 @@ Write the command that you used to do this below:
 Write the command that you used to do this - as well as its output - below :
 ----------
 
-
+.
 
 ==========
 3. Are there any directories or files in your directory that have the word mtec1002 in it?
@@ -32,13 +32,20 @@ Write the command that you used to do this - as well as its output - below :
 Write the command(s) that you used to determine this - as well as its output - below:
 ----------
 
+ls
 
+Adlm				Documents			Movies				Public				bar.txt				foo.txt				mtec1003			pymel.log
+Adobe				Downloads			Music				QLData				chocolate			humvn.save			mtec1003-lab-03			xgen
+Applications			Library				New Unity Project		Things				doodoo				ipe.properties			mtec1003-lab-03.tar.gz
+Desktop				MPLABXProjects			Pictures			Wilson-MTEC2230-Fall2018	drills.py			isus				pwd
 
 ==========
 4. If there are directories or files in your home directory that have the word mtec1002 in them, list them below (otherwise skip this step):
 ----------
-
-
+Wilson-MTEC2230-Fall2018
+mtec1003
+mtec1003-lab-03
+mtec1003-lab-03.tar.gz
 
 ==========
 5. Delete these directories from your home folder by using this command:
@@ -57,7 +64,7 @@ $ rm -rf mtec1002-labs-02
 ==========
 6.  A compressed archive (.tar.gz) of the lab files can be found at this url: 
 
-http://foureyes.github.io/mtec1002-spring2014/labs/03/mtec1002-lab-03.tar.gz
+https://entertainmenttechnology.github.io/tsadok-MTEC1003-fall-2018/labs/03/mtec1003-lab-03.tar.gz
 
 Download this file to your home directory into a file called mtec1002-lab-03.tar.gz.   Use a command that we learned to do this.
 

@@ -72,7 +72,7 @@ This command should have a *flag* to specify the output file.  MAKE SURE TO NAME
 
 Write the command(s) that you used to download this file - as well as its output - below:
 ----------
-
+curl -o mtec1002-lab-03.tar.gz https://entertainmenttechnology.github.io/tsadok-MTEC1003-fall-2018/labs/03/mtec1003-lab-03.tar.gz
 
 
 ==========
@@ -80,7 +80,7 @@ Write the command(s) that you used to download this file - as well as its output
 
 Write the command(s) that you used to do this - as well as its output - below:
 ----------
-
+tar -xvf mtec1002-lab-03.tar.gz
 
 
 ==========
@@ -95,7 +95,8 @@ Otherwise...
 
 Write the command(s) that you used to do this - as well as its output - below:
 ----------
-
+tar: Unrecognized archive format
+tar: Error exit delayed from previous errors.
 
 
 ==========

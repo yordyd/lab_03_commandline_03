@@ -36,7 +36,10 @@ $ touch foo.txt
 $ ls
 Copy and paste the output below.
 ----------
-
+Adlm				Documents			Movies				Public				Wilson-MTEC2230-Fall2018	drills.py			isus				mtec1003-lab-03.tar.gz
+Adobe				Downloads			Music				QLData				bar.txt				foo.txt				mtec1002-lab-03.tar.gz		pwd
+Applications			Library				New Unity Project		Rashid				chocolate			humvn.save			mtec1003			pymel.log
+Desktop				MPLABXProjects			Pictures			Things				doodoo				ipe.properties			mtec1003-lab-03			xgen
 
 
 ==========
@@ -52,7 +55,74 @@ $ touch bar.txt
 
 Copy and paste the output below.
 ----------
-
+drwxr-xr-x+ 68 student  staff    2312 Sep 24 09:58 .
+drwxr-xr-x   7 root     admin     238 Jun 21 15:06 ..
+-r--------   1 student  staff       7 Jun 22 13:52 .CFUserTextEncoding
+-rw-r--r--@  1 student  staff   14340 Sep 24 11:58 .DS_Store
+drwxr-xr-x   3 student  staff     102 Aug  6 14:27 .IdentityService
+drwx------   3 student  staff     102 Aug  6 14:45 .ServiceHub
+drwx------   3 student  staff     102 Sep 24 14:00 .Trash
+-rw-------   1 student  staff       0 Aug 22  2016 .Xauthority
+drwxr-x--x   4 student  staff     136 Aug 22  2016 .adobe
+drwxr-xr-x   3 student  staff     102 Jan 17  2017 .anaconda
+drwxr-xr-x   5 student  staff     170 Jan 17  2017 .android
+drwxr-xr-x  15 student  staff     510 Sep  4 11:23 .atom
+-rw-r--r--   1 student  staff    8571 Sep 20 15:53 .bash_history
+-rw-r--r--@  1 student  staff     120 Jan 17  2018 .bash_profile
+drwx------  85 student  staff    2890 Sep 24 15:47 .bash_sessions
+drwxr-xr-x   4 student  staff     136 Aug 22  2016 .cache
+drwxr-xr-x  12 student  staff     408 Aug  6 14:27 .config
+drwxr-xr-x   3 student  staff     102 Jan 17  2017 .continuum
+drwxr-xr-x   3 student  staff     102 Aug  6 14:25 .dotnet
+-rw-r--r--   1 student  staff    4675 Aug  6 14:41 .eaglerc
+drwxr-xr-x   5 student  staff     170 Aug  9  2017 .eclipse
+-rwxr-xr-x   1 student  staff      37 Aug 22  2016 .flexlmrc
+-rw-r--r--   1 student  staff     126 Jan 17  2018 .gitconfig
+drwx------   2 student  staff      68 Aug 22  2016 .gnome2
+drwxr-xr-x   3 student  staff     102 Aug 22  2016 .local
+drwxr-xr-x   3 student  staff     102 Aug 22  2016 .macports
+drwxr-xr-x   3 student  staff     102 Aug 22  2016 .matlab
+drwxr-xr-x   3 student  staff     102 Aug  6 14:19 .mono
+drwxr-xr-x   3 student  staff     102 Jan 17  2017 .mplabcomm
+-rw-------   1 student  staff      18 Jan 17  2018 .mysql_history
+drwxr-xr-x   3 student  staff     102 Aug  6 14:25 .nuget
+drwxr-xr-x  17 student  staff     578 Aug  6 14:10 .oracle_jre_usage
+-rw-------   1 student  staff    1024 Sep 13 14:53 .rnd
+drwxr-xr-x   6 student  staff     204 Aug 22  2016 .subversion
+drwxr-xr-x   4 student  staff     136 Aug 22  2016 .thumbnails
+-rw-------   1 student  staff    2519 Sep 21 16:34 .viminfo
+drwxr-x---   2 student  staff      68 Aug 22  2016 Adlm
+drwxr-xr-x   3 student  staff     102 Aug 22  2016 Adobe
+drwxr-xr-x   4 student  staff     136 Aug 22  2016 Applications
+drwx------   8 student  staff     272 Sep 24 13:53 Desktop
+drwx------+ 29 student  staff     986 Sep 20 10:57 Documents
+drwx------+  5 student  staff     170 Sep 24 13:53 Downloads
+drwx------@ 74 student  staff    2516 Aug 29 17:04 Library
+drwxr-xr-x   2 student  staff      68 Aug 22  2016 MPLABXProjects
+drwx------   8 student  staff     272 Jan 17  2017 Movies
+drwx------   9 student  staff     306 Sep 17 17:19 Music
+drwxr-xr-x   8 student  staff     272 Aug 28 19:09 New Unity Project
+drwx------   7 student  staff     238 Sep  6 19:09 Pictures
+drwxr-xr-x   5 student  staff     170 Aug 22  2016 Public
+drwxr-xr-x@  3 student  staff     102 Aug  9  2017 QLData
+drwxr-xr-x   5 student  staff     170 Sep 20 11:27 Rashid
+drwxr-xr-x   5 student  staff     170 Aug 22  2016 Things
+drwxr-xr-x   8 student  staff     272 Sep  4 10:46 Wilson-MTEC2230-Fall2018
+-rw-r--r--   1 student  staff       0 Sep 24 15:49 bar.txt
+drwxr-xr-x   3 student  staff     102 Aug 31 15:57 chocolate
+drwxr-xr-x   2 student  staff      68 Aug 31 15:56 doodoo
+-rw-r--r--@  1 student  staff    2231 Aug 27 16:42 drills.py
+-rw-r--r--   1 student  staff       0 Sep 24 15:48 foo.txt
+-rw-------   1 student  staff      56 Sep 14 16:56 humvn.save
+-rw-r--r--   1 student  staff     824 Jan 17  2017 ipe.properties
+drwxr-xr-x   3 student  staff     102 Aug 22  2016 isus
+-rw-r--r--   1 student  staff    9116 Sep 17 15:32 mtec1002-lab-03.tar.gz
+drwxr-xr-x   4 student  staff     136 Aug 31 16:44 mtec1003
+drwxr-xr-x   6 student  staff     204 Sep 14 15:29 mtec1003-lab-03
+-rw-r--r--   1 student  staff  920373 Sep 14 15:25 mtec1003-lab-03.tar.gz
+drwxr-xr-x   2 student  staff      68 Aug 31 15:56 pwd
+-rw-r--r--   1 student  staff       0 Jan 17  2018 pymel.log
+drwxr-xr-x   2 student  staff      68 Aug 22  2016 xgen
 
 
 ==========
@@ -61,21 +131,30 @@ Copy and paste the output below.
 
 Write the command that you used to copy the file.  Additionally, copy and paste the output of your file listing below.
 ----------
+cp bar.txt baz.txt
 
+Adlm				Documents			Movies				Public				Wilson-MTEC2230-Fall2018	doodoo				ipe.properties			mtec1003-lab-03			xgen
+Adobe				Downloads			Music				QLData				bar.txt				drills.py			isus				mtec1003-lab-03.tar.gz
+Applications			Library				New Unity Project		Rashid				baz.txt				foo.txt				mtec1002-lab-03.tar.gz		pwd
+Desktop				MPLABXProjects			Pictures			Things				chocolate			humvn.save			mtec1003			pymel.log
 
 
 ==========
 10. Delete the file called bar.txt and then list the files again.
 
 Write the command that you used to remove the file.  Copy and paste the output of your file listing below.
-----------
-==========
+rm bar.txt
+
+Adlm				Documents			Movies				Public				Wilson-MTEC2230-Fall2018	drills.py			isus				mtec1003-lab-03.tar.gz
+Adobe				Downloads			Music				QLData				baz.txt				foo.txt				mtec1002-lab-03.tar.gz		pwd
+Applications			Library				New Unity Project		Rashid				chocolate			humvn.save			mtec1003			pymel.log
+Desktop				MPLABXProjects			Pictures			Things				doodoo				ipe.properties			mtec1003-lab-03			xgen
 11. Move the file called foo.txt to qux.txt and then list the files again.
 
 
 Write the command that you used to move the file.  Copy and paste the output of your file listing below.
 ----------
-
+mv foo.txt qux.txt
 
 
 ==========
@@ -90,7 +169,7 @@ Write the command that you used to move the file.  Copy and paste the output of 
 
 Write out the command that you used and what happened.
 ----------
-
+rmdir my_files
 
 
 ==========
@@ -98,7 +177,7 @@ Write out the command that you used and what happened.
 
 Write out the command that you used and what happened.
 ----------
-
+rm my_files
 
 
 ==========
@@ -129,10 +208,10 @@ Describe what happened below.
 books/other/pg1232.txt
 
 Use the command, head, on the file to show the contents of the beginning of the file.  
-
+head
 Write the command that you used below.  Write the last line of the output below (it should be the title).
 ----------
-
+tail
 
 
 ==========
@@ -144,7 +223,7 @@ Use tail on the file to show the contents of the end of the file.
 
 Write the command that you used below.  Write the last line of the output below (it should be the title).
 ----------
-
+cat pg1232.txt
 
 
 ==========

@@ -199,7 +199,7 @@ Use the command called cat on the file to show its contents.
 
 Describe what happened below.
 ----------
-
+it showed a lot of content
 
 
 ==========
@@ -208,9 +208,10 @@ Describe what happened below.
 books/other/pg1232.txt
 
 Use the command, head, on the file to show the contents of the beginning of the file.  
-head
+
 Write the command that you used below.  Write the last line of the output below (it should be the title).
 ----------
+head
 tail
 
 
@@ -223,7 +224,7 @@ Use tail on the file to show the contents of the end of the file.
 
 Write the command that you used below.  Write the last line of the output below (it should be the title).
 ----------
-cat pg1232.txt
+the prince
 
 
 ==========
@@ -235,6 +236,14 @@ Use less and more on the file to show the contents of the file.  Try pressing sp
 
 Write the command that you used below.  Describe what spacebar and q does after using either less or more.
 ----------
+less books/other/pg1232.txt
+spacebar scrolls down
+Q it quits
+
+
+more books/other/pg1232.txt
+spacebar scrolls down
+Q it quits but it keeps the output
 
 
 
@@ -243,15 +252,18 @@ Write the command that you used below.  Describe what spacebar and q does after 
 
 (Some characteristics that may help your description might be the length of the file, whether or not you'd like to read the whole thing... or just the beginning or end, etc.)
 ----------
-
+it depends on what i'm interested in seeing, if i dont want to see the whole thing i just type tail or head
 
 
 ==========
 21.  How many words are in pg1232.txt?  What command did you use to determine the word count?
 ----------
-
+wc -w
+52639
 
 
 ==========
 22.  How many lines are in pg1232.txt?  What command did you use to determine the line count?
 ----------
+wc -l
+5063

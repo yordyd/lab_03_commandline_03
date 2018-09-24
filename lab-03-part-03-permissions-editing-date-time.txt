@@ -77,7 +77,7 @@ $ ./copy_to_backup.sh
 
 What command did you use to try to execute the file?  What happens?
 ----------
-
+x ./copy_to_backup.sh
 
 
 ==========

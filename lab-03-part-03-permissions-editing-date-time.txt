@@ -67,7 +67,7 @@ ls -l
 
 What commands did you use to do this?  What was the output?
 ----------
-chmod copy_to_backup.sh
+chmod +x ~/copy_to_backup.sh
 
 
 ==========

@@ -85,7 +85,8 @@ x ./copy_to_backup.sh
 
 What command did you use to do this?
 ----------
-
+nano test
+*/copy_to_backup.sh
 
 
 ==========
